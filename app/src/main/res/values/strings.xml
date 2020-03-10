@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">CivilizationFAQ</string>
+  <string name="connection_error">Can\'t load data from server. Check connection</string>
+</resources>
